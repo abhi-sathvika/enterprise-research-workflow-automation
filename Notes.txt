@@ -1,0 +1,13 @@
+'''
+Write a barebones MCP server in Python (FastAPI + MCP spec).
+
+Connect it to Microsoft Graph (fetch emails).
+
+Build a simple classification agent (LangChain + OpenAI).
+
+Add intent extraction (structured outputs).
+
+Build ServiceNow MCP server (FastAPI + MCP spec).
+
+Connect everything in a LangChain workflow → measure accuracy.
+'''
